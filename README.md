@@ -9,15 +9,15 @@ we have the below 2 tables in CSV formats:
 
 Dataset:
 1. Sales Data 
-        -->Product id 
-        -->Customer id 
-        -->Order date 
-        -->Location 
-        -->Source order 
+-->Product id 
+-->Customer id 
+-->Order date 
+-->Location 
+-->Source order 
 2. Menu data 
-        -->Product id 
-        -->Product name 
-        -->price
+-->Product id 
+-->Product name 
+-->price
 
 **ΚΡΙ**
 1. Total Amount spent by each customer
