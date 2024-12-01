@@ -23,9 +23,9 @@ Dataset:
 1. Total Amount spent by each customer
 2. Total Amount spent by each food category
 3. Total Amount of sales in each month, Yearly sales, Quaterly sales
-4. total number of order by each category
+4. Total number of order by each category
 5. Top 5 ordered items
 6. Top ordered items
-7. frequecy of customer visited
+7. Frequecy of customer visited
 8. Total sales by each country
-9. total sales by order source
+9. Total sales by order source
