@@ -7,7 +7,7 @@ we have the below 2 tables in CSV formats:
 1. Sales.csv
 2. Menu.csv 
 
-Dataset:
+**Dataset:**
 1. Sales Data 
 -->Product id 
 -->Customer id 
